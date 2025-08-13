@@ -1,4 +1,4 @@
-# Board Treasurer’s 2025 Budget
+# Board Treasurer’s 2026 Proposed Budget
 
 ## Budget Areas
 
@@ -11,11 +11,11 @@
 5.  Board Management [ $8,184.00 ]
 6.  Board Discretionary [ $3,500.00 ]
 
-2025 Yearly Total: $124,191.56
+2026 Yearly Total: $124,191.56
 
 ### Capital Improvements
 
-1.  Pool Repair [ $100,000 ]
+1.  [ ]
 
 ## Property Management
 
@@ -122,11 +122,11 @@ Audit -Tax preparation - This expense envisions a “Rolling Audit” of our acc
 | Board Actions    | $0              |
 | **Total**        | **$3,500.00**   |
 
-## Special Projects - Pool Repair
+## Special Projects -
 
-| Expenses    | Annual Budget |
-| ----------- | ------------- |
-| Pool Repair | $100,000      |
+| Expenses | Annual Budget |
+| -------- | ------------- |
+|          |               |
 
 ### Notes
 
